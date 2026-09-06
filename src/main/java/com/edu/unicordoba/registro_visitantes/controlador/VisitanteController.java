@@ -16,7 +16,7 @@ import java.util.Map;
 
 public class VisitanteController {
 
-    private final VisitanteService servicio;
+    private final VisitanteService  servicio;
 
     // Inyección por constructor: NO es static
     public VisitanteController(VisitanteService s) {
