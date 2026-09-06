@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# compilados de Maven
+target/             
+*.class
+
+.idea/ .vscode/ 
+
+# variables y credenciales  
+*.env 
